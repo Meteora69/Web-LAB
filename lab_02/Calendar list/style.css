@@ -1,0 +1,15 @@
+.season{
+    list-style-image:url(images/arrow-right_16.png) ;
+}
+.winter{
+    list-style-image:url(images/snowflake_16.png) ;
+}
+.summer{
+    list-style-image:url(images/sun_16.png) ;
+}
+.autumn{
+    list-style-image:url(images/leaf_y_16.png) ;
+}
+.spring{
+    list-style-image:url(images/leaf_g_16.png) ;
+}
